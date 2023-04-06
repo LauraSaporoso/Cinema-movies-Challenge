@@ -114,8 +114,8 @@ button {
 .box::before {
     content: "";
     position: absolute;
-    top: -5px;
-    height: 0px;
+    top: -3px;
+    height: 15px;
     left: 10px;
     width: 18%;
     padding: 30px;
@@ -237,6 +237,7 @@ button {
     text-align: left;
     font-weight: 300;
     margin-bottom: 6px;
+    letter-spacing: .8px;
 }
 
 .container-date {
