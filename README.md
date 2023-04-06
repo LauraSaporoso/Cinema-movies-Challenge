@@ -1,5 +1,5 @@
 # Movie-Challenge
-👩🏻‍💻 Per vedere il sito --> https://laurasaporoso.github.io/Movie-Challenge/
+👩🏻‍💻 Per vedere il sito -->  https://laurasaporoso.github.io/Cinema-movies-Challenge/
 
 🔥Viene tutto ricreato con codice Javascript.
 
