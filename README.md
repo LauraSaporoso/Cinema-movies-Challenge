@@ -3,6 +3,8 @@
 
 🔥Viene tutto ricreato con codice Javascript.
 
+Per alcune città, esistendone diverse nel mondo, va specificato il paese, esempio: " Roma, It ".
+
 💻 Compito Challenge:
 Realizzazione prototipo per gestione di lista film di un cinema con 12 Sale. 
 
